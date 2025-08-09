@@ -1,3 +1,91 @@
+# Real-World E-Commerce Product Catalog
+
+## 📌 Overview
+
+This project simulates a **real-world e-commerce product catalog** scenario where developers must balance **functional requirements** with **user experience** considerations.  
+It focuses on **scalable front-end architecture**, **performance optimization**, and **responsiveness** to cater to diverse user bases.
+
+Through this project, you will gain hands-on experience in:
+
+- Building scalable, maintainable frontends using **modern technologies**.
+- Optimizing performance for **high-traffic scenarios** via pagination and infinite scrolling.
+- Ensuring **accessibility and responsiveness** for multiple device sizes.
+
+---
+
+## 🎯 Project Goals
+
+1. **API Integration** – Fetch and display dynamic product data from an API.
+2. **User Convenience** – Implement filtering and sorting for better product discovery.
+3. **Enhanced Experience** – Create a responsive, user-friendly interface with seamless navigation and optimized performance.
+
+---
+
+## 🛠 Technologies Used
+
+- **React / React Native** – Component-based UI development.
+- **Redux** – Efficient state management.
+- **TypeScript** – Type safety and maintainable codebase.
+- **Tailwind CSS** – Modern, responsive UI design.
+
+---
+
+## ✨ Key Features
+
+### 1. API Data Integration
+
+- Fetch and display product data dynamically from a backend API.
+- Handle loading states and errors gracefully.
+
+### 2. Filtering & Sorting
+
+- **Category Filtering** – View products by category.
+- **Price Sorting** – Sort by ascending/descending prices.
+- **Multi-Criteria Filters** – Combine filters for refined search.
+
+### 3. Pagination & Infinite Scrolling
+
+- **Pagination** – Navigate products in chunks via numbered pages.
+- **Infinite Scrolling** – Automatically load more products on scroll.
+
+### 4. Responsive Design
+
+- Works seamlessly across **desktop, tablet, and mobile** devices.
+
+---
+
+## ✅ Evaluation Criteria
+
+### 1. Functionality
+
+- API data is fetched and displayed correctly.
+- Filtering and sorting work as intended.
+- Pagination or infinite scrolling is functional.
+
+### 2. Code Quality
+
+- Clean, maintainable, and well-documented code.
+- Proper use of TypeScript types and interfaces.
+- Well-structured Redux state management.
+
+### 3. User Experience
+
+- Visually appealing and intuitive interface.
+- Smooth responsiveness across screen sizes.
+- No critical bugs affecting usability.
+
+### 4. Version Control
+
+- Frequent, descriptive commits.
+- Organized repository structure following best practices.
+
+---
+
+## 📧 Contact
+
+For questions or collaboration opportunities:  
+**Abdulhakeem Jamiu** – [sbmjamiu@gmail.com.com](mailto:sbmjamiu@gmail.com)
+
 # ProDev Frontend Engineering Program – ALX AFRICA
 
 ## Overview
